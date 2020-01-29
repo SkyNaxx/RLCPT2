@@ -1,4 +1,4 @@
-@name GSG Gauge ALCO Air 2
+@name GSG Gauge ALCO Air 2 Monk sss
 @inputs BrakePipe Cyl
 @outputs 
 @persist E:entity
